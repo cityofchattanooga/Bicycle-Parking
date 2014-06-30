@@ -1,0 +1,396 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Miller Plaza", "Descriptio": "\"<div dir=\"\"ltr\"\">16 spaces:<br>2 Pi Racks<br>6 Inverted U racks<br>&nbsp;<\/div>", "type": "2 Pi Racks 6 Inverted U racks", "capacity": "16.0", "X": "-85.30921", "Y": 35.04588 }, "geometry": { "type": "Point", "coordinates": [ -85.309194689348757, 35.046080555198451 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Outdoor Chattanooga", "Descriptio": "\"<div dir=\"\"ltr\"\">14 bike spaces:<br>1 schoolyard<br>1 post-and-ring<br>1 butter", "type": "1 schoolyard 1 post-and-ring 1 butterfly", "capacity": "14.0", "X": "-85.30659", "Y": 35.06143 }, "geometry": { "type": "Point", "coordinates": [ -85.30659, 35.06143 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Regions", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>1 wave rack in auto parking area<\/div>\"", "type": "1 Wave Rack", "capacity": "3.0", "X": "-85.30502", "Y": 35.06221 }, "geometry": { "type": "Point", "coordinates": [ -85.30473478432684, 35.062389956423999 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Stone Cup", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>3 coffee cup custom racks<\/div>\"", "type": "3 coffee cup custom racks", "capacity": "6.0", "X": "-85.30557", "Y": 35.06177 }, "geometry": { "type": "Point", "coordinates": [ -85.305535774119221, 35.061821360853422 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Chatt. Electric Bikes", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "3.0", "X": "-85.30689", "Y": 35.06254 }, "geometry": { "type": "Point", "coordinates": [ -85.306904854982974, 35.062566750196211 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coolidge", "Descriptio": "\"<div dir=\"\"ltr\"\">9 spaces:<br>3 wave racks<\/div>\"", "type": "3 Wave Racks", "capacity": "9.0", "X": "-85.30682", "Y": 35.06176 }, "geometry": { "type": "Point", "coordinates": [ -85.30682, 35.06176 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sluggo's", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Inverted U<\/div>\"", "type": "Inverted U", "capacity": "2.0", "X": "-85.31508", "Y": 35.06717 }, "geometry": { "type": "Point", "coordinates": [ -85.31508, 35.06717 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Greenlife", "Descriptio": "\"<div dir=\"\"ltr\"\">15 spaces:<br>3 wave racks<\/div>\"", "type": "3 Wave Racks", "capacity": "15.0", "X": "-85.31461", "Y": 35.06316 }, "geometry": { "type": "Point", "coordinates": [ -85.31461, 35.06316 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Trek Store", "Descriptio": "\"<div dir=\"\"ltr\"\">7 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "7.0", "X": "-85.31461", "Y": 35.06234 }, "geometry": { "type": "Point", "coordinates": [ -85.31461, 35.06234 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Smart Furniture", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "3.0", "X": "-85.31425", "Y": 35.06272 }, "geometry": { "type": "Point", "coordinates": [ -85.31425, 35.06272 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "1 North Shore", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>4 Inverted U<\/div>\"", "type": "4 Inverted U", "capacity": "8.0", "X": "-85.31303", "Y": 35.06247 }, "geometry": { "type": "Point", "coordinates": [ -85.312309830425249, 35.062658710449718 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Walgreens", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "3.0", "X": "-85.30844", "Y": 35.06302 }, "geometry": { "type": "Point", "coordinates": [ -85.308479217155053, 35.063036925480176 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mr. Zip", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "5.0", "X": "-85.30568", "Y": 35.06233 }, "geometry": { "type": "Point", "coordinates": [ -85.30568, 35.06233 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "McKenzie Arena", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30067", "Y": 35.04992 }, "geometry": { "type": "Point", "coordinates": [ -85.30067, 35.04992 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "BCBS", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31805", "Y": 35.0522 }, "geometry": { "type": "Point", "coordinates": [ -85.31805, 35.0522 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hunter Museum", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks<\/div>\"", "type": "2 Pi Racks", "capacity": "4.0", "X": "-85.30576", "Y": 35.05498 }, "geometry": { "type": "Point", "coordinates": [ -85.30576, 35.05498 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Ice Cream Show", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks<\/div>\"", "type": "2 Pi Racks", "capacity": "4.0", "X": "-85.30777", "Y": 35.05564 }, "geometry": { "type": "Point", "coordinates": [ -85.30777, 35.05564 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Riverwalk", "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>2 wave racks<br>***# and location estimated<\/div", "type": "2 Wave Racks", "capacity": "10.0", "X": "-85.25339", "Y": 35.0971 }, "geometry": { "type": "Point", "coordinates": [ -85.252420266711312, 35.097492039527907 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Blue Water", "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>Car-shaped bike corral<\/div>\"", "type": "Car-shaped Bike Corral", "capacity": "10.0", "X": "-85.31072", "Y": 35.05381 }, "geometry": { "type": "Point", "coordinates": [ -85.31072, 35.05381 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Big River", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.31051", "Y": 35.05384 }, "geometry": { "type": "Point", "coordinates": [ -85.31051, 35.05384 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mellow Mushroom", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "5.0", "X": "-85.31105", "Y": 35.05431 }, "geometry": { "type": "Point", "coordinates": [ -85.31105, 35.05431 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Majestic Theater", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>3 pi racks<\/div>\"", "type": "3 Pi Racks", "capacity": "6.0", "X": "-85.31102", "Y": 35.05319 }, "geometry": { "type": "Point", "coordinates": [ -85.31102, 35.05319 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hair of the Dog", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "8.0", "X": "-85.30944", "Y": 35.05254 }, "geometry": { "type": "Point", "coordinates": [ -85.30944, 35.05254 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Taco Mac", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30987", "Y": 35.05148 }, "geometry": { "type": "Point", "coordinates": [ -85.30987, 35.05148 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Georgia Ave - office", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack<br>-for private office<\/div>\"", "type": "Schoolyard Rack", "capacity": "3.0", "X": "-85.30507", "Y": 35.05181 }, "geometry": { "type": "Point", "coordinates": [ -85.30507, 35.05181 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Courthouse", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "4.0", "X": "-85.30662", "Y": 35.04932 }, "geometry": { "type": "Point", "coordinates": [ -85.30662, 35.04932 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Park", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>Wave rack<br>*location approximate<\/div>\"", "type": "1 Wave Rack", "capacity": "4.0", "X": "-85.30042", "Y": 35.04372 }, "geometry": { "type": "Point", "coordinates": [ -85.30042, 35.04372 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Niedlov's", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks<\/div>\"", "type": "2 Pi Racks", "capacity": "4.0", "X": "-85.30468", "Y": 35.03522 }, "geometry": { "type": "Point", "coordinates": [ -85.30468, 35.03522 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "green|spaces", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks<\/div>\"", "type": "2 Pi Racks", "capacity": "4.0", "X": "-85.30536", "Y": 35.03553 }, "geometry": { "type": "Point", "coordinates": [ -85.30536, 35.03553 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bluegrass Grill", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30588", "Y": 35.03566 }, "geometry": { "type": "Point", "coordinates": [ -85.30588, 35.03566 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Alleia", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30677", "Y": 35.03601 }, "geometry": { "type": "Point", "coordinates": [ -85.30677, 35.03601 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Shadowbox", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.3061", "Y": 35.0356 }, "geometry": { "type": "Point", "coordinates": [ -85.3061, 35.0356 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Crashpad", "Descriptio": "\"<div dir=\"\"ltr\"\">12 spaces:<br>Custom rack<br>Covered bike parking<br>&nbsp;<\/d", "type": "Custom Rack Covered Bike Parking", "capacity": "12.0", "X": "-85.30473", "Y": 35.03592 }, "geometry": { "type": "Point", "coordinates": [ -85.304658604353776, 35.035819026673927 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Terminal", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>Custom bike shelter<\/div>\"", "type": "Custom Bike Shelter", "capacity": "8.0", "X": "-85.30684", "Y": 35.03662 }, "geometry": { "type": "Point", "coordinates": [ -85.30684, 35.03662 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Urban Stack", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "5.0", "X": "-85.30881", "Y": 35.03928 }, "geometry": { "type": "Point", "coordinates": [ -85.30881, 35.03928 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Development Resource Center", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>1 pi rack at front entrance<br>3 pi racks at back", "type": "1 Pi Rack at front entrance 3 Pi Racks at back entrance", "capacity": "8.0", "X": "-85.30782", "Y": 35.04076 }, "geometry": { "type": "Point", "coordinates": [ -85.307618794087929, 35.040876909414223 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "21 Knots\/Lifekraze\/etc.", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>1 pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30746", "Y": 35.03652 }, "geometry": { "type": "Point", "coordinates": [ -85.30746, 35.03652 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Convention Center", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "3.0", "X": "-85.31278", "Y": 35.04337 }, "geometry": { "type": "Point", "coordinates": [ -85.31278, 35.04337 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Convention Center", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "3.0", "X": "-85.31311", "Y": 35.04279 }, "geometry": { "type": "Point", "coordinates": [ -85.31311, 35.04279 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Coltrane's", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "5.0", "X": "-85.31119", "Y": 35.04595 }, "geometry": { "type": "Point", "coordinates": [ -85.31119, 35.04595 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TVA", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>4 inverted U<\/div>\"", "type": "4 Inverted U", "capacity": "8.0", "X": "-85.31045", "Y": 35.04242 }, "geometry": { "type": "Point", "coordinates": [ -85.31045, 35.04242 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TVA", "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>5 inverted U<\/div>\"", "type": "5 Inverted U", "capacity": "10.0", "X": "-85.31116", "Y": 35.04267 }, "geometry": { "type": "Point", "coordinates": [ -85.31116, 35.04267 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TVA", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>3 inverted U<\/div>\"", "type": "3 Inverted U", "capacity": "6.0", "X": "-85.30962", "Y": 35.04281 }, "geometry": { "type": "Point", "coordinates": [ -85.30962, 35.04281 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "City Hall Annex", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30769", "Y": 35.0432 }, "geometry": { "type": "Point", "coordinates": [ -85.30769, 35.0432 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pickle Barrel", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30926", "Y": 35.04432 }, "geometry": { "type": "Point", "coordinates": [ -85.309219434291933, 35.044321328458942 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Chattz Coffee", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30928", "Y": 35.04453 }, "geometry": { "type": "Point", "coordinates": [ -85.309247547433543, 35.04453 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pilgrim's Pride", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "6.0", "X": "-85.31188", "Y": 35.03671 }, "geometry": { "type": "Point", "coordinates": [ -85.31188, 35.03671 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bi-lo\/St. Elmo Plaza", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "3.0", "X": "-85.32618", "Y": 35.01015 }, "geometry": { "type": "Point", "coordinates": [ -85.32618, 35.01015 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sports Barn", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Inverted U<\/div>\"", "type": "Inverted U", "capacity": "2.0", "X": "-85.3098", "Y": 35.05331 }, "geometry": { "type": "Point", "coordinates": [ -85.3098, 35.05331 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gaslight Cafe", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks<\/div>\"", "type": "2 Pi Racks", "capacity": "4.0", "X": "-85.30973", "Y": 35.04932 }, "geometry": { "type": "Point", "coordinates": [ -85.30973, 35.04932 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "First Tennessee Bank", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "6.0", "X": "-85.30969", "Y": 35.04819 }, "geometry": { "type": "Point", "coordinates": [ -85.30969, 35.04819 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Market & 7th", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<br>*location estimated<\/div>\"", "type": "Pi Rack", "capacity": "2.0", "X": "-85.30968", "Y": 35.04767 }, "geometry": { "type": "Point", "coordinates": [ -85.30968, 35.04767 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TVA", "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>5 inverted U<\/div>\"", "type": "5 Inverted U", "capacity": "10.0", "X": "-85.31042", "Y": 35.04195 }, "geometry": { "type": "Point", "coordinates": [ -85.31042, 35.04195 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Battle Academy", "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>5 Inverted U rack at rear entrance<\/div>\"", "type": "5 Inverted U", "capacity": "10.0", "X": "-85.30795", "Y": 35.0359 }, "geometry": { "type": "Point", "coordinates": [ -85.30795, 35.0359 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Transit stop", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: <br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30933", "Y": 35.05063 }, "geometry": { "type": "Point", "coordinates": [ -85.30933, 35.05063 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "212 Market", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30957", "Y": 35.05438 }, "geometry": { "type": "Point", "coordinates": [ -85.30957, 35.05438 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "YMCA", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31309", "Y": 35.0499 }, "geometry": { "type": "Point", "coordinates": [ -85.31309, 35.0499 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Fletcher Hall Douglas St", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30108", "Y": 35.04648 }, "geometry": { "type": "Point", "coordinates": [ -85.30108, 35.04648 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "University Center Bookstore", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack <\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29771", "Y": 35.04836 }, "geometry": { "type": "Point", "coordinates": [ -85.29771, 35.04836 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Holt Hall across UC", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Racks<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29724", "Y": 35.04779 }, "geometry": { "type": "Point", "coordinates": [ -85.29724, 35.04779 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Holt Hall across Grote Hall", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<br>&nbsp;<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29675", "Y": 35.0476 }, "geometry": { "type": "Point", "coordinates": [ -85.29675, 35.0476 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Grote Hall", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Racks<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29742", "Y": 35.0473 }, "geometry": { "type": "Point", "coordinates": [ -85.29742, 35.0473 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Proctor Field", "Descriptio": "\"<div dir=\"\"ltr\"\">16 Spaces  <br>3 Wave Racks<\/div>\"", "type": "3 Wave Racks", "capacity": "16.0", "X": "-85.29988", "Y": 35.05005 }, "geometry": { "type": "Point", "coordinates": [ -85.29988, 35.05005 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Guerry Center", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29714", "Y": 35.04547 }, "geometry": { "type": "Point", "coordinates": [ -85.29714, 35.04547 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Bretske Hall", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack <\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29889", "Y": 35.04602 }, "geometry": { "type": "Point", "coordinates": [ -85.29889, 35.04602 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Maclellan Gym Vine St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Racks<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29977", "Y": 35.04786 }, "geometry": { "type": "Point", "coordinates": [ -85.29977, 35.04786 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Maclellan Gym Douglas St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29984", "Y": 35.0485 }, "geometry": { "type": "Point", "coordinates": [ -85.29984, 35.0485 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockmiller", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack  <br><\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29626", "Y": 35.04487 }, "geometry": { "type": "Point", "coordinates": [ -85.29626, 35.04487 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cardiac Hill", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Racks<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29811", "Y": 35.04647 }, "geometry": { "type": "Point", "coordinates": [ -85.29811, 35.04647 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Administrative Service Bldg", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29363", "Y": 35.04732 }, "geometry": { "type": "Point", "coordinates": [ -85.29363, 35.04732 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EMCS Vine St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<br>* Approx Location<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29523", "Y": 35.04614 }, "geometry": { "type": "Point", "coordinates": [ -85.29523, 35.04614 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Fine Art Center Vine St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack <br><\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29557", "Y": 35.04589 }, "geometry": { "type": "Point", "coordinates": [ -85.29557, 35.04589 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Davenport Hall", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack <\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30209", "Y": 35.04731 }, "geometry": { "type": "Point", "coordinates": [ -85.30209, 35.04731 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boling Apartments Vine St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack <\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30142", "Y": 35.04852 }, "geometry": { "type": "Point", "coordinates": [ -85.30142, 35.04852 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Johnson Apts. Houston St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4&nbsp;Spaces&nbsp;<br>1 Wave Racks<br>&nbsp;<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30337", "Y": 35.04805 }, "geometry": { "type": "Point", "coordinates": [ -85.30337, 35.04805 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockmiller", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack  <br><\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29594", "Y": 35.04476 }, "geometry": { "type": "Point", "coordinates": [ -85.29594, 35.04476 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockmiller under stairs", "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces  <br>1 Rack  <br>* Approx Location<\/div>\"", "type": "1 Rack", "capacity": "2.0", "X": "-85.29588", "Y": 35.04444 }, "geometry": { "type": "Point", "coordinates": [ -85.29588, 35.04444 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Middle of Lockmiller Apts", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack <br>* Approx Location<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.2961", "Y": 35.04453 }, "geometry": { "type": "Point", "coordinates": [ -85.2961, 35.04453 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockmiller under stairs", "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces  <br>1 Rack  <br>* Approx Location<\/div>\"", "type": "1 Rack", "capacity": "2.0", "X": "-85.29573", "Y": 35.04458 }, "geometry": { "type": "Point", "coordinates": [ -85.29573, 35.04458 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "McCallie Ave", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces<br>2 Wave Racks<br>* Approx Location <\/div>\"", "type": "2 Wave Racks", "capacity": "8.0", "X": "-85.3002", "Y": 35.04525 }, "geometry": { "type": "Point", "coordinates": [ -85.3002, 35.04525 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "McCallie Ave", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces<br>2 Wave Racks<br>* Approx Location <\/div>\"", "type": "2 Wave Racks", "capacity": "8.0", "X": "-85.29974", "Y": 35.0452 }, "geometry": { "type": "Point", "coordinates": [ -85.29974, 35.0452 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "McCallie Ave", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces<br>2 Wave Racks<br>* Approx Location <\/div>\"", "type": "2 Wave Racks", "capacity": "8.0", "X": "-85.29936", "Y": 35.04502 }, "geometry": { "type": "Point", "coordinates": [ -85.29936, 35.04502 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boling Apartments", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack&nbsp;<br> <\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30063", "Y": 35.04864 }, "geometry": { "type": "Point", "coordinates": [ -85.30063, 35.04864 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Food Works", "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\"<\/div>\"", "type": null, "capacity": null, "X": "-85.31192", "Y": 35.06298 }, "geometry": { "type": "Point", "coordinates": [ -85.311975854736005, 35.062870081512358 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Suntrust Bank - Frazier Ave", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30894", "Y": 35.06269 }, "geometry": { "type": "Point", "coordinates": [ -85.309008927120999, 35.062724045640195 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Terra Nostra Frazier Ave", "Descriptio": null, "type": "1 post-and-ring", "capacity": "2", "X": "-85.30721", "Y": 35.06256 }, "geometry": { "type": "Point", "coordinates": [ -85.307439800705083, 35.062585840892723 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Panera Bread - Market & 4th", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30977", "Y": 35.05167 }, "geometry": { "type": "Point", "coordinates": [ -85.30977, 35.05167 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Miller Plaza - Cherry St.", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30846", "Y": 35.04612 }, "geometry": { "type": "Point", "coordinates": [ -85.30846, 35.04612 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Miller Park - Market and 10th", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30925", "Y": 35.04511 }, "geometry": { "type": "Point", "coordinates": [ -85.30925, 35.04511 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EPB Market St.", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30957", "Y": 35.04562 }, "geometry": { "type": "Point", "coordinates": [ -85.30957, 35.04562 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Honest Pint - Patten pky", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: pi rack<\/div>\"", "type": "1 Pi Rack", "capacity": "2.0", "X": "-85.30669", "Y": 35.04604 }, "geometry": { "type": "Point", "coordinates": [ -85.30669, 35.04604 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "City Cafe - MLK & Chestnut", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31198", "Y": 35.04526 }, "geometry": { "type": "Point", "coordinates": [ -85.31198, 35.04526 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jimmy John's - 10th and Market", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30956", "Y": 35.045 }, "geometry": { "type": "Point", "coordinates": [ -85.30956, 35.045 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pickle Barrel - Market & Georgia", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30927", "Y": 35.04424 }, "geometry": { "type": "Point", "coordinates": [ -85.309232679548558, 35.044236014618932 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Public House - Market & 12th", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30855", "Y": 35.04218 }, "geometry": { "type": "Point", "coordinates": [ -85.30855, 35.04218 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "1st Tennessee Pavilion - Reggie White Blvd.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 blue racks<\/div>\"", "type": null, "capacity": "4.0", "X": "-85.31674", "Y": 35.03686 }, "geometry": { "type": "Point", "coordinates": [ -85.31674, 35.03686 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Aretha Frankenstein's", "Descriptio": null, "type": null, "capacity": null, "X": "-85.29874", "Y": 35.06696 }, "geometry": { "type": "Point", "coordinates": [ -85.298758539018749, 35.066990736742184 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Blacksmith's Bistro - St. Elmo Ave.", "Descriptio": null, "type": null, "capacity": null, "X": "-85.32812", "Y": 35.0099 }, "geometry": { "type": "Point", "coordinates": [ -85.32812, 35.0099 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Urban League - MLK & Peeples", "Descriptio": null, "type": null, "capacity": null, "X": "-85.29918", "Y": 35.04219 }, "geometry": { "type": "Point", "coordinates": [ -85.29918, 35.04219 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Meeting Place", "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\" from curb<\/div>\"", "type": null, "capacity": null, "X": "-85.30759", "Y": 35.03994 }, "geometry": { "type": "Point", "coordinates": [ -85.30759, 35.03994 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "CVB", "Descriptio": "\"<div dir=\"\"ltr\"\">24\"\" from planter; aligned with tree<\/div>\"", "type": null, "capacity": null, "X": "-85.3094", "Y": 35.04734 }, "geometry": { "type": "Point", "coordinates": [ -85.3094, 35.04734 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "United Way", "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\" from curb - aligned with planter (slab divider)<\/div>\"", "type": null, "capacity": null, "X": "-85.30939", "Y": 35.04853 }, "geometry": { "type": "Point", "coordinates": [ -85.30939, 35.04853 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Taziki's\/Johnson Group", "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\" from curb; between parking spaces<\/div>\"", "type": null, "capacity": null, "X": "-85.30947", "Y": 35.05117 }, "geometry": { "type": "Point", "coordinates": [ -85.30947, 35.05117 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "South Chattanooga Recreation", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces: 2 wave racks<\/div>\"", "type": "2 Wave Racks", "capacity": "8.0", "X": "-85.3229", "Y": 35.00855 }, "geometry": { "type": "Point", "coordinates": [ -85.3229, 35.00855 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Target", "Descriptio": "\"<div dir=\"\"ltr\"\">7 spaces: Schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "7.0", "X": "-85.15577", "Y": 35.02462 }, "geometry": { "type": "Point", "coordinates": [ -85.15577, 35.02462 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Shuttle Park South", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces: Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30689", "Y": 35.03795 }, "geometry": { "type": "Point", "coordinates": [ -85.30689, 35.03795 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Regions", "Descriptio": "\"<div dir=\"\"ltr\"\">&nbsp;<\/div>\"", "type": null, "capacity": null, "X": "-85.30991", "Y": 35.04915 }, "geometry": { "type": "Point", "coordinates": [ -85.30991, 35.04915 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "IMAX", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: inverted U<\/div>\"", "type": "Inverted U", "capacity": "2.0", "X": "-85.31199", "Y": 35.05451 }, "geometry": { "type": "Point", "coordinates": [ -85.31199, 35.05451 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Creative Discovery Museum", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: inverted U<\/div>\"", "type": "Inverted U", "capacity": "2.0", "X": "-85.31188", "Y": 35.05274 }, "geometry": { "type": "Point", "coordinates": [ -85.31188, 35.05274 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cold Stone", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: inverted U<\/div>\"", "type": "Inverted U", "capacity": "2.0", "X": "-85.31277", "Y": 35.05547 }, "geometry": { "type": "Point", "coordinates": [ -85.31277, 35.05547 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ayrshire Apartments", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring<\/div>\"", "type": "Post and Ring", "capacity": "2.0", "X": "-85.30521", "Y": 35.04707 }, "geometry": { "type": "Point", "coordinates": [ -85.30521, 35.04707 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TN State Building", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces Post and Ring<\/div>\"", "type": "Post and Ring", "capacity": "2.0", "X": "-85.30319", "Y": 35.04639 }, "geometry": { "type": "Point", "coordinates": [ -85.30319, 35.04639 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Yellow Deli", "Descriptio": "\"<div dir=\"\"ltr\"\">&nbsp;<\/div>\"", "type": null, "capacity": null, "X": "-85.29712", "Y": 35.0444 }, "geometry": { "type": "Point", "coordinates": [ -85.29712, 35.0444 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Champy's", "Descriptio": "\"<div dir=\"\"ltr\"\">24\"\"<\/div>\"", "type": null, "capacity": null, "X": "-85.30215", "Y": 35.04334 }, "geometry": { "type": "Point", "coordinates": [ -85.30215, 35.04334 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TN Temple University", "Descriptio": null, "type": null, "capacity": null, "X": "-85.27735", "Y": 35.03379 }, "geometry": { "type": "Point", "coordinates": [ -85.27735, 35.03379 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Marco's Italian Restaurant", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring<\/div>\"", "type": "Post and Ring", "capacity": "2.0", "X": "-85.30395", "Y": 35.0615 }, "geometry": { "type": "Point", "coordinates": [ -85.303932174020446, 35.061458658243779 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "North Chatt Cat", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30507", "Y": 35.06179 }, "geometry": { "type": "Point", "coordinates": [ -85.305137501042651, 35.061788443610382 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boling Apt by Tennis Courts", "Descriptio": "<div>4 Spaces<\/div> <div>1&nbsp;Wave Rack&nbsp;<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.3012", "Y": 35.04913 }, "geometry": { "type": "Point", "coordinates": [ -85.3012, 35.04913 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Johnson Apts. Vine St.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30278", "Y": 35.04864 }, "geometry": { "type": "Point", "coordinates": [ -85.30278, 35.04864 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Johnson Apts. Lawson Ctr", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30225", "Y": 35.04788 }, "geometry": { "type": "Point", "coordinates": [ -85.30225, 35.04788 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Johnson Apt Plaza", "Descriptio": "<div>4 Spaces <\/div> <div>1 Wave Rack<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.30298", "Y": 35.04831 }, "geometry": { "type": "Point", "coordinates": [ -85.30298, 35.04831 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Brock Hall", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29807", "Y": 35.04701 }, "geometry": { "type": "Point", "coordinates": [ -85.29807, 35.04701 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Library Entrance", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.29771", "Y": 35.04648 }, "geometry": { "type": "Point", "coordinates": [ -85.29771, 35.04648 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Behind Fine Arts Bldg.", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.2961", "Y": 35.04567 }, "geometry": { "type": "Point", "coordinates": [ -85.2961, 35.04567 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockmiller Apts under stairs", "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces  <br>1 Rack<\/div>\"", "type": "1 Rack", "capacity": "2.0", "X": "-85.29631", "Y": 35.04462 }, "geometry": { "type": "Point", "coordinates": [ -85.29631, 35.04462 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lockmiller Apts under stairs", "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces <br>1 Rack<\/div>\"", "type": "1 Rack", "capacity": "2.0", "X": "-85.29595", "Y": 35.04462 }, "geometry": { "type": "Point", "coordinates": [ -85.29595, 35.04462 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Baldwin across Hunter Hall", "Descriptio": "\"<div dir=\"\"ltr\"\">1 Space <br>1 Rack<\/div>\"", "type": "1 Rack", "capacity": "1.0", "X": "-85.29859", "Y": 35.04528 }, "geometry": { "type": "Point", "coordinates": [ -85.29859, 35.04528 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hunter Hall", "Descriptio": "<div>4 Spaces <\/div> <div>1 Wave Rack<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.29873", "Y": 35.04588 }, "geometry": { "type": "Point", "coordinates": [ -85.29873, 35.04588 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UC Plaza", "Descriptio": "<div>8 Spaces<\/div> <div>3&nbsp;Wave Racks<\/div>", "type": "3 Wave Racks", "capacity": "8", "X": "-85.29781", "Y": 35.04735 }, "geometry": { "type": "Point", "coordinates": [ -85.29781, 35.04735 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UC across from Maclellan Gym", "Descriptio": "<div>4 Spaces <\/div> <div>1 Wave Rack<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.29916", "Y": 35.04797 }, "geometry": { "type": "Point", "coordinates": [ -85.29916, 35.04797 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Fletcher Hall East entrance", "Descriptio": "\"<div dir=\"\"ltr\"\">8 Spaces <br>2 Wave Racks<\/div>\"", "type": "2 Wave Racks", "capacity": "8.0", "X": "-85.30063", "Y": 35.04612 }, "geometry": { "type": "Point", "coordinates": [ -85.30063, 35.04612 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Frist Hall", "Descriptio": "<div>4 Spaces<\/div> <div>1 Wave Rack<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.30263", "Y": 35.04731 }, "geometry": { "type": "Point", "coordinates": [ -85.30263, 35.04731 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Frist parking lot", "Descriptio": "<div>4 Spaces <\/div> <div>1 Wave Rack<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.30319", "Y": 35.0475 }, "geometry": { "type": "Point", "coordinates": [ -85.30319, 35.0475 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hooper Hall", "Descriptio": "<div>4 Spaces<\/div> <div>1 Wave Rack<\/div>", "type": "1 Wave Racks", "capacity": "4", "X": "-85.29961", "Y": 35.04612 }, "geometry": { "type": "Point", "coordinates": [ -85.29961, 35.04612 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UTC Place 3000", "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "4.0", "X": "-85.30093", "Y": 35.04376 }, "geometry": { "type": "Point", "coordinates": [ -85.30093, 35.04376 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UTC Place 300", "Descriptio": "\"<div dir=\"\"ltr\"\">5 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "5.0", "X": "-85.3004", "Y": 35.04351 }, "geometry": { "type": "Point", "coordinates": [ -85.3004, 35.04351 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UTC Place 3000", "Descriptio": "\"<div dir=\"\"ltr\"\">5 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "5.0", "X": "-85.30054", "Y": 35.04371 }, "geometry": { "type": "Point", "coordinates": [ -85.30054, 35.04371 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UTC Place 300", "Descriptio": "\"<div dir=\"\"ltr\"\">5 Spaces <br>1 Wave Rack<\/div>\"", "type": "1 Wave Racks", "capacity": "5.0", "X": "-85.30037", "Y": 35.04398 }, "geometry": { "type": "Point", "coordinates": [ -85.30037, 35.04398 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rembrandts", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30535", "Y": 35.05449 }, "geometry": { "type": "Point", "coordinates": [ -85.30535, 35.05449 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Norhshore Grille\/Leo", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30787", "Y": 35.06248 }, "geometry": { "type": "Point", "coordinates": [ -85.30787, 35.06248 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Auditorium", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring<\/div>\"", "type": "Post and Ring", "capacity": "2.0", "X": "-85.30532", "Y": 35.04745 }, "geometry": { "type": "Point", "coordinates": [ -85.30532, 35.04745 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Starbucks", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31072", "Y": 35.04607 }, "geometry": { "type": "Point", "coordinates": [ -85.31072, 35.04607 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EPB", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31023", "Y": 35.04556 }, "geometry": { "type": "Point", "coordinates": [ -85.31023, 35.04556 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "U.S. Post Office", "Descriptio": "2 spaces: post-and-ring", "type": null, "capacity": "2", "X": "-85.30865", "Y": 35.04487 }, "geometry": { "type": "Point", "coordinates": [ -85.308663272229651, 35.044877459478208 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Wellness Center", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30554", "Y": 35.0433 }, "geometry": { "type": "Point", "coordinates": [ -85.30554, 35.0433 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Business Development Center", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31064", "Y": 35.06341 }, "geometry": { "type": "Point", "coordinates": [ -85.310459363406991, 35.063504354192936 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Social", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring<\/div>\"", "type": "Post and Ring", "capacity": "2.0", "X": "-85.30892", "Y": 35.04244 }, "geometry": { "type": "Point", "coordinates": [ -85.30892, 35.04244 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Chattanoog City Courthouse", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30866", "Y": 35.05051 }, "geometry": { "type": "Point", "coordinates": [ -85.30866, 35.05051 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "North Chattanooga Post Office", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30863", "Y": 35.06382 }, "geometry": { "type": "Point", "coordinates": [ -85.30863, 35.06382 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Chad's Records", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30397", "Y": 35.04927 }, "geometry": { "type": "Point", "coordinates": [ -85.30397, 35.04927 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Times Free Press", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30461", "Y": 35.04198 }, "geometry": { "type": "Point", "coordinates": [ -85.30461, 35.04198 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Downtown Fellowship", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30648", "Y": 35.04293 }, "geometry": { "type": "Point", "coordinates": [ -85.30648, 35.04293 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EPB", "Descriptio": null, "type": null, "capacity": null, "X": "-85.31023", "Y": 35.04519 }, "geometry": { "type": "Point", "coordinates": [ -85.31023, 35.04519 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Jefferson", "Descriptio": null, "type": null, "capacity": null, "X": "-85.3037", "Y": 35.05076 }, "geometry": { "type": "Point", "coordinates": [ -85.3037, 35.05076 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Stroud's Coffee", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces post and ring<\/div>\"", "type": "Post and Ring", "capacity": "2.0", "X": "-85.3098", "Y": 35.04164 }, "geometry": { "type": "Point", "coordinates": [ -85.3098, 35.04164 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Roy H. Nelms Park", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces: 3 hoop racks<\/div>\"", "type": "3 Hoop Racks", "capacity": "6.0", "X": "-85.32967", "Y": 35.00661 }, "geometry": { "type": "Point", "coordinates": [ -85.329690899225582, 35.006681896666031 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Rec Center", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces: comb rack<\/div>\"", "type": "Comb Rack", "capacity": "5.0", "X": "-85.30301", "Y": 35.06939 }, "geometry": { "type": "Point", "coordinates": [ -85.30301, 35.06939 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Niko's", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack<br>Across from Niko's<\/div>\"", "type": "1 Wave Rack", "capacity": "3.0", "X": "-85.30922", "Y": 35.03838 }, "geometry": { "type": "Point", "coordinates": [ -85.30922, 35.03838 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Olde Town Brainerd", "Descriptio": "\"<div dir=\"\"ltr\"\">3200 Brainerd rd <\/div>\"", "type": null, "capacity": null, "X": "-85.25481", "Y": 35.0275 }, "geometry": { "type": "Point", "coordinates": [ -85.25481, 35.0275 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Transit Stop", "Descriptio": "\"<div dir=\"\"ltr\"\">Brainerd and Germantown eastbound<\/div>\"", "type": null, "capacity": null, "X": "-85.24638", "Y": 35.02401 }, "geometry": { "type": "Point", "coordinates": [ -85.24638, 35.02401 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sidewalk in front of Dollar General", "Descriptio": "\"<div dir=\"\"ltr\"\">Brainerd near Germantown westbound<\/div>\"", "type": null, "capacity": null, "X": "-85.24516", "Y": 35.02372 }, "geometry": { "type": "Point", "coordinates": [ -85.24516, 35.02372 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UT College of Medicine", "Descriptio": "\"<div dir=\"\"ltr\"\">E 3rd St and Wiehl St<\/div>\"", "type": null, "capacity": null, "X": "-85.29067", "Y": 35.04773 }, "geometry": { "type": "Point", "coordinates": [ -85.29067, 35.04773 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Erlanger Transit Stop", "Descriptio": "\"<div dir=\"\"ltr\"\">E 3rd St and Hampton<\/div>\"", "type": null, "capacity": null, "X": "-85.29167", "Y": 35.04831 }, "geometry": { "type": "Point", "coordinates": [ -85.29167, 35.04831 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Pasha Coffee and Tea", "Descriptio": "\"<div dir=\"\"ltr\"\">3914 St Elmo Ave<\/div>\"", "type": null, "capacity": null, "X": "-85.3283", "Y": 35.00997 }, "geometry": { "type": "Point", "coordinates": [ -85.3283, 35.00997 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "TN Bouldering Authority", "Descriptio": "\"<div dir=\"\"ltr\"\">St Elmo Ave<\/div>\"", "type": null, "capacity": null, "X": "-85.32828", "Y": 35.01091 }, "geometry": { "type": "Point", "coordinates": [ -85.32828, 35.01091 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mojo Burrito", "Descriptio": "\"<div dir=\"\"ltr\"\">St Elmo Ave and Silvels <\/div>\"", "type": null, "capacity": null, "X": "-85.32853", "Y": 35.01053 }, "geometry": { "type": "Point", "coordinates": [ -85.32853, 35.01053 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "St Andrews Center\/Tn Temple", "Descriptio": "\"<div dir=\"\"ltr\"\">S Beech\/Kirby<\/div>\"", "type": null, "capacity": null, "X": "-85.27683", "Y": 35.03196 }, "geometry": { "type": "Point", "coordinates": [ -85.27683, 35.03196 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "St Andrews Center\/Tn Temple", "Descriptio": "\"<div dir=\"\"ltr\"\">Union\/S Beech<\/div>\"", "type": null, "capacity": null, "X": "-85.27491", "Y": 35.03197 }, "geometry": { "type": "Point", "coordinates": [ -85.27491, 35.03197 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Holder Concessions", "Descriptio": "\"<div dir=\"\"ltr\"\">1312 S willow <\/div>\"", "type": null, "capacity": null, "X": "-85.27635", "Y": 35.02592 }, "geometry": { "type": "Point", "coordinates": [ -85.27635, 35.02592 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Glenwood Park", "Descriptio": "\"<div dir=\"\"ltr\"\">2419 E 3rd St. <\/div><div dir=\"\"ltr\"\">&nbsp;<\/div>\"", "type": null, "capacity": null, "X": "-85.26336", "Y": 35.03787 }, "geometry": { "type": "Point", "coordinates": [ -85.26336, 35.03787 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Eastside Elementary", "Descriptio": "\"<div dir=\"\"ltr\"\"><\/div>\"", "type": null, "capacity": null, "X": "-85.27507", "Y": 35.02381 }, "geometry": { "type": "Point", "coordinates": [ -85.27507, 35.02381 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tremont Tavern", "Descriptio": null, "type": null, "capacity": null, "X": "-85.28937", "Y": 35.06966 }, "geometry": { "type": "Point", "coordinates": [ -85.289423477938712, 35.069476752586596 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "St Andrews Center\/TN Temple", "Descriptio": null, "type": null, "capacity": null, "X": "-85.27781", "Y": 35.03298 }, "geometry": { "type": "Point", "coordinates": [ -85.27781, 35.03298 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Glenwood Park", "Descriptio": "\"<div dir=\"\"ltr\"\">2419 E 3rd St<\/div>\"", "type": null, "capacity": null, "X": "-85.26328", "Y": 35.03785 }, "geometry": { "type": "Point", "coordinates": [ -85.26328, 35.03785 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Riverwalk @ The Boathouse", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "2.0", "X": "-85.28401", "Y": 35.05486 }, "geometry": { "type": "Point", "coordinates": [ -85.28401, 35.05486 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Community Kitchen", "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces: comb rack<\/div>\"", "type": "Comb Rack", "capacity": "6.0", "X": "-85.30026", "Y": 35.04045 }, "geometry": { "type": "Point", "coordinates": [ -85.30026, 35.04045 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lincoln Apartments", "Descriptio": null, "type": null, "capacity": null, "X": "-85.30538", "Y": 35.05288 }, "geometry": { "type": "Point", "coordinates": [ -85.30538, 35.05288 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boathouse", "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: Wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "2.0", "X": "-85.2837", "Y": 35.055 }, "geometry": { "type": "Point", "coordinates": [ -85.2837, 35.055 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "40th St. Park", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "3.0", "X": "-85.32498", "Y": 35.00856 }, "geometry": { "type": "Point", "coordinates": [ -85.325796063387585, 35.008822046731069 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cycle Sport Concepts", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces: custom rack<\/div>\"", "type": "Custom Rack", "capacity": "5.0", "X": "-85.30072", "Y": 35.03353 }, "geometry": { "type": "Point", "coordinates": [ -85.30072, 35.03353 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "1st Presbyterian Student Center", "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces: 2 Inverted U<\/div>\"", "type": "2 Inverted U", "capacity": "4.0", "X": "-85.30239", "Y": 35.04635 }, "geometry": { "type": "Point", "coordinates": [ -85.30239, 35.04635 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "East Lake Academy", "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces: schoolyard rack<\/div>\"", "type": "Schoolyard Rack", "capacity": "5.0", "X": "-85.28105", "Y": 35.00271 }, "geometry": { "type": "Point", "coordinates": [ -85.28105, 35.00271 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "East Lake Rec Center", "Descriptio": null, "type": null, "capacity": null, "X": "-85.28281", "Y": 35.00008 }, "geometry": { "type": "Point", "coordinates": [ -85.28281, 35.00008 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "S. chattanooga Library", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "3.0", "X": "-85.32061", "Y": 35.00854 }, "geometry": { "type": "Point", "coordinates": [ -85.32061, 35.00854 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sticky Fingers", "Descriptio": "2 spaces: 1 pi rack", "type": null, "capacity": null, "X": "-85.31045", "Y": 35.0515 }, "geometry": { "type": "Point", "coordinates": [ -85.31045, 35.0515 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ankar's", "Descriptio": "2 spaces: inverted U", "type": null, "capacity": null, "X": "-85.31039", "Y": 35.05011 }, "geometry": { "type": "Point", "coordinates": [ -85.31039, 35.05011 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Riverside Park", "Descriptio": "5 spaces: Schoolyard rack", "type": null, "capacity": null, "X": "-85.26851", "Y": 35.06904 }, "geometry": { "type": "Point", "coordinates": [ -85.26851, 35.06904 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Barking Legs Theater", "Descriptio": null, "type": null, "capacity": null, "X": "-85.26874", "Y": 35.02375 }, "geometry": { "type": "Point", "coordinates": [ -85.26874, 35.02375 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Countdown Building", "Descriptio": null, "type": null, "capacity": null, "X": "-85.25494", "Y": 35.02732 }, "geometry": { "type": "Point", "coordinates": [ -85.25494, 35.02732 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Boccaccia", "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack<\/div>\"", "type": "1 Wave Racks", "capacity": "3.0", "X": "-85.32055", "Y": 35.02187 }, "geometry": { "type": "Point", "coordinates": [ -85.32055, 35.02187 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Hill City Pizza", "Descriptio": null, "type": "3 hoop racks", "capacity": "6", "X": null, "Y": null }, "geometry": { "type": "Point", "coordinates": [ -85.308266197233735, 35.062143605811627 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "1 North Shore", "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>4 Inverted U<\/div>\"", "type": "4 Inverted U", "capacity": "8.0", "X": "-85.31303", "Y": 35.06247 }, "geometry": { "type": "Point", "coordinates": [ -85.312309830425249, 35.062658710449718 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Downtown Library", "Descriptio": null, "type": "1 Wave Rack", "capacity": "6", "X": null, "Y": null }, "geometry": { "type": "Point", "coordinates": [ -85.310545930150738, 35.044482018355005 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Main Terrain Park", "Descriptio": "1 Wave Rack", "type": null, "capacity": "4", "X": null, "Y": null }, "geometry": { "type": "Point", "coordinates": [ -85.311323325666024, 35.04010081313865 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Well Advantage Center", "Descriptio": "3 U Racks", "type": null, "capacity": "6", "X": null, "Y": null }, "geometry": { "type": "Point", "coordinates": [ -85.30239860846217, 35.040729288119607 ] } }
+
+]
+}
+
