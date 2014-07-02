@@ -7,9 +7,7 @@
         "Name": "Miller Plaza",
         "Descriptio": "\"<div dir=\"\"ltr\"\">16 spaces:<br>2 Pi Racks<br>6 Inverted U racks<br>&nbsp;</div>",
         "type": "2 Pi Racks 6 Inverted U racks",
-        "capacity": "16.0",
-        "X": "-85.30921",
-        "Y": 35.04588
+        "capacity": "16.0"
       },
       "geometry": {
         "type": "Point",
@@ -25,9 +23,7 @@
         "Name": "Outdoor Chattanooga",
         "Descriptio": "\"<div dir=\"\"ltr\"\">14 bike spaces:<br>1 schoolyard<br>1 post-and-ring<br>1 butter",
         "type": "1 schoolyard 1 post-and-ring 1 butterfly",
-        "capacity": "14.0",
-        "X": "-85.30659",
-        "Y": 35.06143
+        "capacity": "14.0"
       },
       "geometry": {
         "type": "Point",
@@ -43,9 +39,7 @@
         "Name": "Regions",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>1 wave rack in auto parking area</div>\"",
         "type": "1 Wave Rack",
-        "capacity": "3.0",
-        "X": "-85.30502",
-        "Y": 35.06221
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -61,9 +55,7 @@
         "Name": "Stone Cup",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>3 coffee cup custom racks</div>\"",
         "type": "3 coffee cup custom racks",
-        "capacity": "6.0",
-        "X": "-85.30557",
-        "Y": 35.06177
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -79,9 +71,7 @@
         "Name": "Chatt. Electric Bikes",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "3.0",
-        "X": "-85.30689",
-        "Y": 35.06254
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -97,9 +87,7 @@
         "Name": "Coolidge",
         "Descriptio": "\"<div dir=\"\"ltr\"\">9 spaces:<br>3 wave racks</div>\"",
         "type": "3 Wave Racks",
-        "capacity": "9.0",
-        "X": "-85.30682",
-        "Y": 35.06176
+        "capacity": "9.0"
       },
       "geometry": {
         "type": "Point",
@@ -115,9 +103,7 @@
         "Name": "Sluggo's",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Inverted U</div>\"",
         "type": "Inverted U",
-        "capacity": "2.0",
-        "X": "-85.31508",
-        "Y": 35.06717
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -133,9 +119,7 @@
         "Name": "Greenlife",
         "Descriptio": "\"<div dir=\"\"ltr\"\">15 spaces:<br>3 wave racks</div>\"",
         "type": "3 Wave Racks",
-        "capacity": "15.0",
-        "X": "-85.31461",
-        "Y": 35.06316
+        "capacity": "15.0"
       },
       "geometry": {
         "type": "Point",
@@ -151,9 +135,7 @@
         "Name": "Trek Store",
         "Descriptio": "\"<div dir=\"\"ltr\"\">7 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "7.0",
-        "X": "-85.31461",
-        "Y": 35.06234
+        "capacity": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -169,9 +151,7 @@
         "Name": "Smart Furniture",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "3.0",
-        "X": "-85.31425",
-        "Y": 35.06272
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -187,9 +167,7 @@
         "Name": "1 North Shore",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>4 Inverted U</div>\"",
         "type": "4 Inverted U",
-        "capacity": "8.0",
-        "X": "-85.31303",
-        "Y": 35.06247
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -205,9 +183,7 @@
         "Name": "Walgreens",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "3.0",
-        "X": "-85.30844",
-        "Y": 35.06302
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -223,9 +199,7 @@
         "Name": "Mr. Zip",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "5.0",
-        "X": "-85.30568",
-        "Y": 35.06233
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -241,9 +215,7 @@
         "Name": "McKenzie Arena",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30067",
-        "Y": 35.04992
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -259,9 +231,7 @@
         "Name": "BCBS",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31805",
-        "Y": 35.0522
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -277,9 +247,7 @@
         "Name": "Hunter Museum",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks</div>\"",
         "type": "2 Pi Racks",
-        "capacity": "4.0",
-        "X": "-85.30576",
-        "Y": 35.05498
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -295,9 +263,7 @@
         "Name": "The Ice Cream Show",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks</div>\"",
         "type": "2 Pi Racks",
-        "capacity": "4.0",
-        "X": "-85.30777",
-        "Y": 35.05564
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -313,9 +279,7 @@
         "Name": "Riverwalk",
         "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>2 wave racks<br>***# and location estimated</div",
         "type": "2 Wave Racks",
-        "capacity": "10.0",
-        "X": "-85.25339",
-        "Y": 35.0971
+        "capacity": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -331,9 +295,7 @@
         "Name": "Blue Water",
         "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>Car-shaped bike corral</div>\"",
         "type": "Car-shaped Bike Corral",
-        "capacity": "10.0",
-        "X": "-85.31072",
-        "Y": 35.05381
+        "capacity": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -349,9 +311,7 @@
         "Name": "Big River",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.31051",
-        "Y": 35.05384
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -367,9 +327,7 @@
         "Name": "Mellow Mushroom",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "5.0",
-        "X": "-85.31105",
-        "Y": 35.05431
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -385,9 +343,7 @@
         "Name": "Majestic Theater",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>3 pi racks</div>\"",
         "type": "3 Pi Racks",
-        "capacity": "6.0",
-        "X": "-85.31102",
-        "Y": 35.05319
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -403,9 +359,7 @@
         "Name": "Hair of the Dog",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "8.0",
-        "X": "-85.30944",
-        "Y": 35.05254
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -421,9 +375,7 @@
         "Name": "Taco Mac",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30987",
-        "Y": 35.05148
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -439,9 +391,7 @@
         "Name": "Georgia Ave - office",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack<br>-for private office</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "3.0",
-        "X": "-85.30507",
-        "Y": 35.05181
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -457,9 +407,7 @@
         "Name": "Courthouse",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "4.0",
-        "X": "-85.30662",
-        "Y": 35.04932
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -475,9 +423,7 @@
         "Name": "Park",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>Wave rack<br>*location approximate</div>\"",
         "type": "1 Wave Rack",
-        "capacity": "4.0",
-        "X": "-85.30042",
-        "Y": 35.04372
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -493,9 +439,7 @@
         "Name": "Niedlov's",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks</div>\"",
         "type": "2 Pi Racks",
-        "capacity": "4.0",
-        "X": "-85.30468",
-        "Y": 35.03522
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -511,9 +455,7 @@
         "Name": "green|spaces",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks</div>\"",
         "type": "2 Pi Racks",
-        "capacity": "4.0",
-        "X": "-85.30536",
-        "Y": 35.03553
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -529,9 +471,7 @@
         "Name": "Bluegrass Grill",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30588",
-        "Y": 35.03566
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -547,9 +487,7 @@
         "Name": "Alleia",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30677",
-        "Y": 35.03601
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -565,9 +503,7 @@
         "Name": "Shadowbox",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.3061",
-        "Y": 35.0356
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -583,9 +519,7 @@
         "Name": "Crashpad",
         "Descriptio": "\"<div dir=\"\"ltr\"\">12 spaces:<br>Custom rack<br>Covered bike parking<br>&nbsp;</d",
         "type": "Custom Rack Covered Bike Parking",
-        "capacity": "12.0",
-        "X": "-85.30473",
-        "Y": 35.03592
+        "capacity": "12.0"
       },
       "geometry": {
         "type": "Point",
@@ -601,9 +535,7 @@
         "Name": "Terminal",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>Custom bike shelter</div>\"",
         "type": "Custom Bike Shelter",
-        "capacity": "8.0",
-        "X": "-85.30684",
-        "Y": 35.03662
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -619,9 +551,7 @@
         "Name": "Urban Stack",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "5.0",
-        "X": "-85.30881",
-        "Y": 35.03928
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -637,9 +567,7 @@
         "Name": "Development Resource Center",
         "Descriptio": "",
         "type": "3 Pi Racks",
-        "capacity": 6,
-        "X": -85.30782,
-        "Y": 35.04076
+        "capacity": 6
       },
       "geometry": {
         "type": "Point",
@@ -655,9 +583,7 @@
         "Name": "21 Knots/Lifekraze/etc.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>1 pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30746",
-        "Y": 35.03652
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -673,9 +599,7 @@
         "Name": "Convention Center",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "3.0",
-        "X": "-85.31278",
-        "Y": 35.04337
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -691,9 +615,7 @@
         "Name": "Convention Center",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "3.0",
-        "X": "-85.31311",
-        "Y": 35.04279
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -709,9 +631,7 @@
         "Name": "Coltrane's",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "5.0",
-        "X": "-85.31119",
-        "Y": 35.04595
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -727,9 +647,7 @@
         "Name": "TVA",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>4 inverted U</div>\"",
         "type": "4 Inverted U",
-        "capacity": "8.0",
-        "X": "-85.31045",
-        "Y": 35.04242
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -745,9 +663,7 @@
         "Name": "TVA",
         "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>5 inverted U</div>\"",
         "type": "5 Inverted U",
-        "capacity": "10.0",
-        "X": "-85.31116",
-        "Y": 35.04267
+        "capacity": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -763,9 +679,7 @@
         "Name": "TVA",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>3 inverted U</div>\"",
         "type": "3 Inverted U",
-        "capacity": "6.0",
-        "X": "-85.30962",
-        "Y": 35.04281
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -781,9 +695,7 @@
         "Name": "City Hall Annex",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30769",
-        "Y": 35.0432
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -799,9 +711,7 @@
         "Name": "Pickle Barrel",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30926",
-        "Y": 35.04432
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -817,9 +727,7 @@
         "Name": "Chattz Coffee",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30928",
-        "Y": 35.04453
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -835,9 +743,7 @@
         "Name": "Pilgrim's Pride",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "6.0",
-        "X": "-85.31188",
-        "Y": 35.03671
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -853,9 +759,7 @@
         "Name": "Bi-lo/St. Elmo Plaza",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "3.0",
-        "X": "-85.32618",
-        "Y": 35.01015
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -871,9 +775,7 @@
         "Name": "Sports Barn",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Inverted U</div>\"",
         "type": "Inverted U",
-        "capacity": "2.0",
-        "X": "-85.3098",
-        "Y": 35.05331
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -889,9 +791,7 @@
         "Name": "Gaslight Cafe",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces:<br>2 pi racks</div>\"",
         "type": "2 Pi Racks",
-        "capacity": "4.0",
-        "X": "-85.30973",
-        "Y": 35.04932
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -907,9 +807,7 @@
         "Name": "First Tennessee Bank",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces:<br>Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "6.0",
-        "X": "-85.30969",
-        "Y": 35.04819
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -925,9 +823,7 @@
         "Name": "Market & 7th",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack<br>*location estimated</div>\"",
         "type": "Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30968",
-        "Y": 35.04767
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -943,9 +839,7 @@
         "Name": "TVA",
         "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>5 inverted U</div>\"",
         "type": "5 Inverted U",
-        "capacity": "10.0",
-        "X": "-85.31042",
-        "Y": 35.04195
+        "capacity": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -961,9 +855,7 @@
         "Name": "Battle Academy",
         "Descriptio": "\"<div dir=\"\"ltr\"\">10 spaces:<br>5 Inverted U rack at rear entrance</div>\"",
         "type": "5 Inverted U",
-        "capacity": "10.0",
-        "X": "-85.30795",
-        "Y": 35.0359
+        "capacity": "10.0"
       },
       "geometry": {
         "type": "Point",
@@ -979,9 +871,7 @@
         "Name": "Transit stop",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: <br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30933",
-        "Y": 35.05063
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -997,9 +887,7 @@
         "Name": "212 Market",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces:<br>Pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30957",
-        "Y": 35.05438
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1015,9 +903,7 @@
         "Name": "YMCA",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31309",
-        "Y": 35.0499
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1033,9 +919,7 @@
         "Name": "Fletcher Hall Douglas St",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30108",
-        "Y": 35.04648
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1051,9 +935,7 @@
         "Name": "University Center Bookstore",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack </div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29771",
-        "Y": 35.04836
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1069,9 +951,7 @@
         "Name": "Holt Hall across UC",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Racks</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29724",
-        "Y": 35.04779
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1087,9 +967,7 @@
         "Name": "Holt Hall across Grote Hall",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<br>&nbsp;</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29675",
-        "Y": 35.0476
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1105,9 +983,7 @@
         "Name": "Grote Hall",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Racks</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29742",
-        "Y": 35.0473
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1123,9 +999,7 @@
         "Name": "Proctor Field",
         "Descriptio": "\"<div dir=\"\"ltr\"\">16 Spaces  <br>3 Wave Racks</div>\"",
         "type": "3 Wave Racks",
-        "capacity": "16.0",
-        "X": "-85.29988",
-        "Y": 35.05005
+        "capacity": "16.0"
       },
       "geometry": {
         "type": "Point",
@@ -1141,9 +1015,7 @@
         "Name": "Guerry Center",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29714",
-        "Y": 35.04547
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1159,9 +1031,7 @@
         "Name": "Bretske Hall",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack </div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29889",
-        "Y": 35.04602
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1177,9 +1047,7 @@
         "Name": "Maclellan Gym Vine St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Racks</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29977",
-        "Y": 35.04786
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1195,9 +1063,7 @@
         "Name": "Maclellan Gym Douglas St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29984",
-        "Y": 35.0485
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1213,9 +1079,7 @@
         "Name": "Lockmiller",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack  <br></div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29626",
-        "Y": 35.04487
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1231,9 +1095,7 @@
         "Name": "Cardiac Hill",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Racks</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29811",
-        "Y": 35.04647
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1249,9 +1111,7 @@
         "Name": "Administrative Service Bldg",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29363",
-        "Y": 35.04732
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1267,9 +1127,7 @@
         "Name": "EMCS Vine St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack<br>* Approx Location</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29523",
-        "Y": 35.04614
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1285,9 +1143,7 @@
         "Name": "Fine Art Center Vine St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack <br></div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29557",
-        "Y": 35.04589
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1303,9 +1159,7 @@
         "Name": "Davenport Hall",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack </div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30209",
-        "Y": 35.04731
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1321,9 +1175,7 @@
         "Name": "Boling Apartments Vine St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack </div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30142",
-        "Y": 35.04852
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1339,9 +1191,7 @@
         "Name": "Johnson Apts. Houston St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4&nbsp;Spaces&nbsp;<br>1 Wave Racks<br>&nbsp;</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30337",
-        "Y": 35.04805
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1357,9 +1207,7 @@
         "Name": "Lockmiller",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack  <br></div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29594",
-        "Y": 35.04476
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1375,9 +1223,7 @@
         "Name": "Lockmiller under stairs",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces  <br>1 Rack  <br>* Approx Location</div>\"",
         "type": "1 Rack",
-        "capacity": "2.0",
-        "X": "-85.29588",
-        "Y": 35.04444
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1393,9 +1239,7 @@
         "Name": "Middle of Lockmiller Apts",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack <br>* Approx Location</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.2961",
-        "Y": 35.04453
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1411,9 +1255,7 @@
         "Name": "Lockmiller under stairs",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces  <br>1 Rack  <br>* Approx Location</div>\"",
         "type": "1 Rack",
-        "capacity": "2.0",
-        "X": "-85.29573",
-        "Y": 35.04458
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1429,9 +1271,7 @@
         "Name": "McCallie Ave",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces<br>2 Wave Racks<br>* Approx Location </div>\"",
         "type": "2 Wave Racks",
-        "capacity": "8.0",
-        "X": "-85.3002",
-        "Y": 35.04525
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1447,9 +1287,7 @@
         "Name": "McCallie Ave",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces<br>2 Wave Racks<br>* Approx Location </div>\"",
         "type": "2 Wave Racks",
-        "capacity": "8.0",
-        "X": "-85.29974",
-        "Y": 35.0452
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1465,9 +1303,7 @@
         "Name": "McCallie Ave",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces<br>2 Wave Racks<br>* Approx Location </div>\"",
         "type": "2 Wave Racks",
-        "capacity": "8.0",
-        "X": "-85.29936",
-        "Y": 35.04502
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1483,9 +1319,7 @@
         "Name": "Boling Apartments",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack&nbsp;<br> </div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30063",
-        "Y": 35.04864
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1501,9 +1335,7 @@
         "Name": "Food Works",
         "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\"</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.31192",
-        "Y": 35.06298
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1519,9 +1351,7 @@
         "Name": "Suntrust Bank - Frazier Ave",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30894",
-        "Y": 35.06269
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1537,9 +1367,7 @@
         "Name": "Terra Nostra Frazier Ave",
         "Descriptio": null,
         "type": "1 post-and-ring",
-        "capacity": "2",
-        "X": "-85.30721",
-        "Y": 35.06256
+        "capacity": "2"
       },
       "geometry": {
         "type": "Point",
@@ -1555,9 +1383,7 @@
         "Name": "Panera Bread - Market & 4th",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30977",
-        "Y": 35.05167
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1573,9 +1399,7 @@
         "Name": "Miller Plaza - Cherry St.",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30846",
-        "Y": 35.04612
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1591,9 +1415,7 @@
         "Name": "Miller Park - Market and 10th",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30925",
-        "Y": 35.04511
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1609,9 +1431,7 @@
         "Name": "EPB Market St.",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30957",
-        "Y": 35.04562
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1627,9 +1447,7 @@
         "Name": "Honest Pint - Patten pky",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: pi rack</div>\"",
         "type": "1 Pi Rack",
-        "capacity": "2.0",
-        "X": "-85.30669",
-        "Y": 35.04604
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1645,9 +1463,7 @@
         "Name": "City Cafe - MLK & Chestnut",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31198",
-        "Y": 35.04526
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1663,9 +1479,7 @@
         "Name": "Jimmy John's - 10th and Market",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30956",
-        "Y": 35.045
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1681,9 +1495,7 @@
         "Name": "Pickle Barrel - Market & Georgia",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30927",
-        "Y": 35.04424
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1699,9 +1511,7 @@
         "Name": "Public House - Market & 12th",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30855",
-        "Y": 35.04218
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1717,9 +1527,7 @@
         "Name": "1st Tennessee Pavilion - Reggie White Blvd.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 blue racks</div>\"",
         "type": null,
-        "capacity": "4.0",
-        "X": "-85.31674",
-        "Y": 35.03686
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1735,9 +1543,7 @@
         "Name": "Aretha Frankenstein's",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.29874",
-        "Y": 35.06696
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1753,9 +1559,7 @@
         "Name": "Blacksmith's Bistro - St. Elmo Ave.",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.32812",
-        "Y": 35.0099
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1771,9 +1575,7 @@
         "Name": "Urban League - MLK & Peeples",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.29918",
-        "Y": 35.04219
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1789,9 +1591,7 @@
         "Name": "Meeting Place",
         "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\" from curb</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.30759",
-        "Y": 35.03994
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1807,9 +1607,7 @@
         "Name": "CVB",
         "Descriptio": "\"<div dir=\"\"ltr\"\">24\"\" from planter; aligned with tree</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.3094",
-        "Y": 35.04734
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1825,9 +1623,7 @@
         "Name": "United Way",
         "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\" from curb - aligned with planter (slab divider)</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.30939",
-        "Y": 35.04853
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1843,9 +1639,7 @@
         "Name": "Taziki's/Johnson Group",
         "Descriptio": "\"<div dir=\"\"ltr\"\">36\"\" from curb; between parking spaces</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.30947",
-        "Y": 35.05117
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1861,9 +1655,7 @@
         "Name": "South Chattanooga Recreation",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces: 2 wave racks</div>\"",
         "type": "2 Wave Racks",
-        "capacity": "8.0",
-        "X": "-85.3229",
-        "Y": 35.00855
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -1879,9 +1671,7 @@
         "Name": "Target",
         "Descriptio": "\"<div dir=\"\"ltr\"\">7 spaces: Schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "7.0",
-        "X": "-85.15577",
-        "Y": 35.02462
+        "capacity": "7.0"
       },
       "geometry": {
         "type": "Point",
@@ -1897,9 +1687,7 @@
         "Name": "Shuttle Park South",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces: Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30689",
-        "Y": 35.03795
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -1915,9 +1703,7 @@
         "Name": "Regions",
         "Descriptio": "\"<div dir=\"\"ltr\"\">&nbsp;</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.30991",
-        "Y": 35.04915
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -1933,9 +1719,7 @@
         "Name": "IMAX",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: inverted U</div>\"",
         "type": "Inverted U",
-        "capacity": "2.0",
-        "X": "-85.31199",
-        "Y": 35.05451
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1951,9 +1735,7 @@
         "Name": "Creative Discovery Museum",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: inverted U</div>\"",
         "type": "Inverted U",
-        "capacity": "2.0",
-        "X": "-85.31188",
-        "Y": 35.05274
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1969,9 +1751,7 @@
         "Name": "Cold Stone",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: inverted U</div>\"",
         "type": "Inverted U",
-        "capacity": "2.0",
-        "X": "-85.31277",
-        "Y": 35.05547
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -1987,9 +1767,7 @@
         "Name": "Ayrshire Apartments",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring</div>\"",
         "type": "Post and Ring",
-        "capacity": "2.0",
-        "X": "-85.30521",
-        "Y": 35.04707
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2005,9 +1783,7 @@
         "Name": "TN State Building",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces Post and Ring</div>\"",
         "type": "Post and Ring",
-        "capacity": "2.0",
-        "X": "-85.30319",
-        "Y": 35.04639
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2023,9 +1799,7 @@
         "Name": "Yellow Deli",
         "Descriptio": "\"<div dir=\"\"ltr\"\">&nbsp;</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.29712",
-        "Y": 35.0444
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2041,9 +1815,7 @@
         "Name": "Champy's",
         "Descriptio": "\"<div dir=\"\"ltr\"\">24\"\"</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.30215",
-        "Y": 35.04334
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2059,9 +1831,7 @@
         "Name": "TN Temple University",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.27735",
-        "Y": 35.03379
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2077,9 +1847,7 @@
         "Name": "Marco's Italian Restaurant",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring</div>\"",
         "type": "Post and Ring",
-        "capacity": "2.0",
-        "X": "-85.30395",
-        "Y": 35.0615
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2095,9 +1863,7 @@
         "Name": "North Chatt Cat",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30507",
-        "Y": 35.06179
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2113,9 +1879,7 @@
         "Name": "Boling Apt by Tennis Courts",
         "Descriptio": "<div>4 Spaces</div> <div>1&nbsp;Wave Rack&nbsp;</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.3012",
-        "Y": 35.04913
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2131,9 +1895,7 @@
         "Name": "Johnson Apts. Vine St.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30278",
-        "Y": 35.04864
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -2149,9 +1911,7 @@
         "Name": "Johnson Apts. Lawson Ctr",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30225",
-        "Y": 35.04788
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -2167,9 +1927,7 @@
         "Name": "Johnson Apt Plaza",
         "Descriptio": "<div>4 Spaces </div> <div>1 Wave Rack</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.30298",
-        "Y": 35.04831
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2185,9 +1943,7 @@
         "Name": "Brock Hall",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29807",
-        "Y": 35.04701
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -2203,9 +1959,7 @@
         "Name": "Library Entrance",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces  <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.29771",
-        "Y": 35.04648
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -2221,9 +1975,7 @@
         "Name": "Behind Fine Arts Bldg.",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.2961",
-        "Y": 35.04567
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -2239,9 +1991,7 @@
         "Name": "Lockmiller Apts under stairs",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces  <br>1 Rack</div>\"",
         "type": "1 Rack",
-        "capacity": "2.0",
-        "X": "-85.29631",
-        "Y": 35.04462
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2257,9 +2007,7 @@
         "Name": "Lockmiller Apts under stairs",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 Spaces <br>1 Rack</div>\"",
         "type": "1 Rack",
-        "capacity": "2.0",
-        "X": "-85.29595",
-        "Y": 35.04462
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2275,9 +2023,7 @@
         "Name": "Baldwin across Hunter Hall",
         "Descriptio": "\"<div dir=\"\"ltr\"\">1 Space <br>1 Rack</div>\"",
         "type": "1 Rack",
-        "capacity": "1.0",
-        "X": "-85.29859",
-        "Y": 35.04528
+        "capacity": "1.0"
       },
       "geometry": {
         "type": "Point",
@@ -2293,9 +2039,7 @@
         "Name": "Hunter Hall",
         "Descriptio": "<div>4 Spaces </div> <div>1 Wave Rack</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.29873",
-        "Y": 35.04588
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2311,9 +2055,7 @@
         "Name": "UC Plaza",
         "Descriptio": "<div>8 Spaces</div> <div>3&nbsp;Wave Racks</div>",
         "type": "3 Wave Racks",
-        "capacity": "8",
-        "X": "-85.29781",
-        "Y": 35.04735
+        "capacity": "8"
       },
       "geometry": {
         "type": "Point",
@@ -2329,9 +2071,7 @@
         "Name": "UC across from Maclellan Gym",
         "Descriptio": "<div>4 Spaces </div> <div>1 Wave Rack</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.29916",
-        "Y": 35.04797
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2347,9 +2087,7 @@
         "Name": "Fletcher Hall East entrance",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 Spaces <br>2 Wave Racks</div>\"",
         "type": "2 Wave Racks",
-        "capacity": "8.0",
-        "X": "-85.30063",
-        "Y": 35.04612
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -2365,9 +2103,7 @@
         "Name": "Frist Hall",
         "Descriptio": "<div>4 Spaces</div> <div>1 Wave Rack</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.30263",
-        "Y": 35.04731
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2383,9 +2119,7 @@
         "Name": "Frist parking lot",
         "Descriptio": "<div>4 Spaces </div> <div>1 Wave Rack</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.30319",
-        "Y": 35.0475
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2401,9 +2135,7 @@
         "Name": "Hooper Hall",
         "Descriptio": "<div>4 Spaces</div> <div>1 Wave Rack</div>",
         "type": "1 Wave Racks",
-        "capacity": "4",
-        "X": "-85.29961",
-        "Y": 35.04612
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2419,9 +2151,7 @@
         "Name": "UTC Place 3000",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "4.0",
-        "X": "-85.30093",
-        "Y": 35.04376
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -2437,9 +2167,7 @@
         "Name": "UTC Place 300",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "5.0",
-        "X": "-85.3004",
-        "Y": 35.04351
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -2455,9 +2183,7 @@
         "Name": "UTC Place 3000",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "5.0",
-        "X": "-85.30054",
-        "Y": 35.04371
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -2473,9 +2199,7 @@
         "Name": "UTC Place 300",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 Spaces <br>1 Wave Rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "5.0",
-        "X": "-85.30037",
-        "Y": 35.04398
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -2491,9 +2215,7 @@
         "Name": "Rembrandts",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30535",
-        "Y": 35.05449
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2509,9 +2231,7 @@
         "Name": "Norhshore Grille/Leo",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30787",
-        "Y": 35.06248
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2527,9 +2247,7 @@
         "Name": "Auditorium",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring</div>\"",
         "type": "Post and Ring",
-        "capacity": "2.0",
-        "X": "-85.30532",
-        "Y": 35.04745
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2545,9 +2263,7 @@
         "Name": "Starbucks",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31072",
-        "Y": 35.04607
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2563,9 +2279,7 @@
         "Name": "EPB",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31023",
-        "Y": 35.04556
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2581,9 +2295,7 @@
         "Name": "U.S. Post Office",
         "Descriptio": "2 spaces: post-and-ring",
         "type": null,
-        "capacity": "2",
-        "X": "-85.30865",
-        "Y": 35.04487
+        "capacity": "2"
       },
       "geometry": {
         "type": "Point",
@@ -2599,9 +2311,7 @@
         "Name": "Wellness Center",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30554",
-        "Y": 35.0433
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2617,9 +2327,7 @@
         "Name": "Business Development Center",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31064",
-        "Y": 35.06341
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2635,9 +2343,7 @@
         "Name": "The Social",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: post and ring</div>\"",
         "type": "Post and Ring",
-        "capacity": "2.0",
-        "X": "-85.30892",
-        "Y": 35.04244
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2653,9 +2359,7 @@
         "Name": "Chattanoog City Courthouse",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30866",
-        "Y": 35.05051
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2671,9 +2375,7 @@
         "Name": "North Chattanooga Post Office",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30863",
-        "Y": 35.06382
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2689,9 +2391,7 @@
         "Name": "Chad's Records",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30397",
-        "Y": 35.04927
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2707,9 +2407,7 @@
         "Name": "Times Free Press",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30461",
-        "Y": 35.04198
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2725,9 +2423,7 @@
         "Name": "Downtown Fellowship",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30648",
-        "Y": 35.04293
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2743,9 +2439,7 @@
         "Name": "EPB",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.31023",
-        "Y": 35.04519
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2761,9 +2455,7 @@
         "Name": "The Jefferson",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.3037",
-        "Y": 35.05076
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2779,9 +2471,7 @@
         "Name": "Stroud's Coffee",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces post and ring</div>\"",
         "type": "Post and Ring",
-        "capacity": "2.0",
-        "X": "-85.3098",
-        "Y": 35.04164
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -2797,9 +2487,7 @@
         "Name": "Roy H. Nelms Park",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces: 3 hoop racks</div>\"",
         "type": "3 Hoop Racks",
-        "capacity": "6.0",
-        "X": "-85.32967",
-        "Y": 35.00661
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -2815,9 +2503,7 @@
         "Name": "Rec Center",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces: comb rack</div>\"",
         "type": "Comb Rack",
-        "capacity": "5.0",
-        "X": "-85.30301",
-        "Y": 35.06939
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -2833,9 +2519,7 @@
         "Name": "Niko's",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack<br>Across from Niko's</div>\"",
         "type": "1 Wave Rack",
-        "capacity": "3.0",
-        "X": "-85.30922",
-        "Y": 35.03838
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -2851,9 +2535,7 @@
         "Name": "Olde Town Brainerd",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3200 Brainerd rd </div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.25481",
-        "Y": 35.0275
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2869,9 +2551,7 @@
         "Name": "Transit Stop",
         "Descriptio": "\"<div dir=\"\"ltr\"\">Brainerd and Germantown eastbound</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.24638",
-        "Y": 35.02401
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2887,9 +2567,7 @@
         "Name": "Sidewalk in front of Dollar General",
         "Descriptio": "\"<div dir=\"\"ltr\"\">Brainerd near Germantown westbound</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.24516",
-        "Y": 35.02372
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2905,9 +2583,7 @@
         "Name": "UT College of Medicine",
         "Descriptio": "\"<div dir=\"\"ltr\"\">E 3rd St and Wiehl St</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.29067",
-        "Y": 35.04773
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2923,9 +2599,7 @@
         "Name": "Erlanger Transit Stop",
         "Descriptio": "\"<div dir=\"\"ltr\"\">E 3rd St and Hampton</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.29167",
-        "Y": 35.04831
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2941,9 +2615,7 @@
         "Name": "Pasha Coffee and Tea",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3914 St Elmo Ave</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.3283",
-        "Y": 35.00997
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2959,9 +2631,7 @@
         "Name": "TN Bouldering Authority",
         "Descriptio": "\"<div dir=\"\"ltr\"\">St Elmo Ave</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.32828",
-        "Y": 35.01091
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2977,9 +2647,7 @@
         "Name": "Mojo Burrito",
         "Descriptio": "\"<div dir=\"\"ltr\"\">St Elmo Ave and Silvels </div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.32853",
-        "Y": 35.01053
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -2995,9 +2663,7 @@
         "Name": "St Andrews Center/Tn Temple",
         "Descriptio": "\"<div dir=\"\"ltr\"\">S Beech/Kirby</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.27683",
-        "Y": 35.03196
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3013,9 +2679,7 @@
         "Name": "St Andrews Center/Tn Temple",
         "Descriptio": "\"<div dir=\"\"ltr\"\">Union/S Beech</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.27491",
-        "Y": 35.03197
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3031,9 +2695,7 @@
         "Name": "Holder Concessions",
         "Descriptio": "\"<div dir=\"\"ltr\"\">1312 S willow </div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.27635",
-        "Y": 35.02592
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3049,9 +2711,7 @@
         "Name": "Glenwood Park",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2419 E 3rd St. </div><div dir=\"\"ltr\"\">&nbsp;</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.26336",
-        "Y": 35.03787
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3067,9 +2727,7 @@
         "Name": "Eastside Elementary",
         "Descriptio": "\"<div dir=\"\"ltr\"\"></div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.27507",
-        "Y": 35.02381
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3085,9 +2743,7 @@
         "Name": "Tremont Tavern",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.28937",
-        "Y": 35.06966
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3103,9 +2759,7 @@
         "Name": "St Andrews Center/TN Temple",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.27781",
-        "Y": 35.03298
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3121,9 +2775,7 @@
         "Name": "Glenwood Park",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2419 E 3rd St</div>\"",
         "type": null,
-        "capacity": null,
-        "X": "-85.26328",
-        "Y": 35.03785
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3139,9 +2791,7 @@
         "Name": "Riverwalk @ The Boathouse",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "2.0",
-        "X": "-85.28401",
-        "Y": 35.05486
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -3157,9 +2807,7 @@
         "Name": "Community Kitchen",
         "Descriptio": "\"<div dir=\"\"ltr\"\">6 spaces: comb rack</div>\"",
         "type": "Comb Rack",
-        "capacity": "6.0",
-        "X": "-85.30026",
-        "Y": 35.04045
+        "capacity": "6.0"
       },
       "geometry": {
         "type": "Point",
@@ -3175,9 +2823,7 @@
         "Name": "Lincoln Apartments",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.30538",
-        "Y": 35.05288
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3193,9 +2839,7 @@
         "Name": "Boathouse",
         "Descriptio": "\"<div dir=\"\"ltr\"\">2 spaces: Wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "2.0",
-        "X": "-85.2837",
-        "Y": 35.055
+        "capacity": "2.0"
       },
       "geometry": {
         "type": "Point",
@@ -3211,9 +2855,7 @@
         "Name": "40th St. Park",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "3.0",
-        "X": "-85.32498",
-        "Y": 35.00856
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -3229,9 +2871,7 @@
         "Name": "Cycle Sport Concepts",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces: custom rack</div>\"",
         "type": "Custom Rack",
-        "capacity": "5.0",
-        "X": "-85.30072",
-        "Y": 35.03353
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -3247,9 +2887,7 @@
         "Name": "1st Presbyterian Student Center",
         "Descriptio": "\"<div dir=\"\"ltr\"\">4 spaces: 2 Inverted U</div>\"",
         "type": "2 Inverted U",
-        "capacity": "4.0",
-        "X": "-85.30239",
-        "Y": 35.04635
+        "capacity": "4.0"
       },
       "geometry": {
         "type": "Point",
@@ -3265,9 +2903,7 @@
         "Name": "East Lake Academy",
         "Descriptio": "\"<div dir=\"\"ltr\"\">5 spaces: schoolyard rack</div>\"",
         "type": "Schoolyard Rack",
-        "capacity": "5.0",
-        "X": "-85.28105",
-        "Y": 35.00271
+        "capacity": "5.0"
       },
       "geometry": {
         "type": "Point",
@@ -3283,9 +2919,7 @@
         "Name": "East Lake Rec Center",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.28281",
-        "Y": 35.00008
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3301,9 +2935,7 @@
         "Name": "S. chattanooga Library",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "3.0",
-        "X": "-85.32061",
-        "Y": 35.00854
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -3318,10 +2950,8 @@
       "properties": {
         "Name": "Sticky Fingers",
         "Descriptio": "2 spaces: 1 pi rack",
-        "type": "",
-        "capacity": "",
-        "X": "-85.31045",
-        "Y": 35.0515
+        "type": "1 i rackP",
+        "capacity": 2
       },
       "geometry": {
         "type": "Point",
@@ -3336,10 +2966,8 @@
       "properties": {
         "Name": "Ankar's",
         "Descriptio": "2 spaces: inverted U",
-        "type": "",
-        "capacity": "",
-        "X": "-85.31039",
-        "Y": 35.05011
+        "type": "1 inverted U Rack",
+        "capacity": 2
       },
       "geometry": {
         "type": "Point",
@@ -3354,10 +2982,8 @@
       "properties": {
         "Name": "Riverside Park",
         "Descriptio": "5 spaces: Schoolyard rack",
-        "type": "",
-        "capacity": "",
-        "X": "-85.26851",
-        "Y": 35.06904
+        "type": "Schoolyard rack",
+        "capacity": 5
       },
       "geometry": {
         "type": "Point",
@@ -3373,9 +2999,7 @@
         "Name": "Barking Legs Theater",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.26874",
-        "Y": 35.02375
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3391,9 +3015,7 @@
         "Name": "Countdown Building",
         "Descriptio": null,
         "type": null,
-        "capacity": null,
-        "X": "-85.25494",
-        "Y": 35.02732
+        "capacity": null
       },
       "geometry": {
         "type": "Point",
@@ -3409,9 +3031,7 @@
         "Name": "Boccaccia",
         "Descriptio": "\"<div dir=\"\"ltr\"\">3 spaces: wave rack</div>\"",
         "type": "1 Wave Racks",
-        "capacity": "3.0",
-        "X": "-85.32055",
-        "Y": 35.02187
+        "capacity": "3.0"
       },
       "geometry": {
         "type": "Point",
@@ -3427,9 +3047,7 @@
         "Name": "Hill City Pizza",
         "Descriptio": null,
         "type": "3 hoop racks",
-        "capacity": "6",
-        "X": null,
-        "Y": null
+        "capacity": "6"
       },
       "geometry": {
         "type": "Point",
@@ -3445,9 +3063,7 @@
         "Name": "1 North Shore",
         "Descriptio": "\"<div dir=\"\"ltr\"\">8 spaces:<br>4 Inverted U</div>\"",
         "type": "4 Inverted U Racks",
-        "capacity": "8.0",
-        "X": "-85.31303",
-        "Y": 35.06247
+        "capacity": "8.0"
       },
       "geometry": {
         "type": "Point",
@@ -3463,9 +3079,7 @@
         "Name": "Downtown Library",
         "Descriptio": null,
         "type": "1 Wave Rack",
-        "capacity": "6",
-        "X": null,
-        "Y": null
+        "capacity": "6"
       },
       "geometry": {
         "type": "Point",
@@ -3480,10 +3094,8 @@
       "properties": {
         "Name": "Main Terrain Park",
         "Descriptio": "1 Wave Rack",
-        "type": null,
-        "capacity": "4",
-        "X": null,
-        "Y": null
+        "type": "",
+        "capacity": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3498,10 +3110,8 @@
       "properties": {
         "Name": "Well Advantage Center",
         "Descriptio": "3 U Racks",
-        "type": null,
-        "capacity": "6",
-        "X": null,
-        "Y": null
+        "type": "",
+        "capacity": "6"
       },
       "geometry": {
         "type": "Point",
