@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -qq openjdk-7-jre wget
+  - wget https://github.com/socrata/datasync/releases/download/1.0/datasync_1.0_java7.jar
+after_success:
+  - if [[ "$TRAVIS_PULL_REQUEST" != "false" ]]; then echo "This is a
+      pull request. No deployment will be done."; exit 0; fi
+  - if [[ "$TRAVIS_BRANCH" != "master" ]]; then echo "This is not
+      the master branch. No deployment will be done."; exit 0; fi
+  - npm run to-csv
+  - npm run write-config
+  - java -jar datasync_1.0_java7.jar -c config.json -f bicycle_parking.csv -h true -i $DATASET_ID -m replace -pf true -sc control.json
+env:
+  global:
+    - DATASET_ID="sp42-d42z"
