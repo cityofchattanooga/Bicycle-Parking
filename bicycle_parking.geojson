@@ -3200,6 +3200,54 @@
           35.043307248715436
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "4 Inverted U Racks",
+        "type": "4 Inverted U Racks",
+        "capacity": 8,
+        "name": "Center Med Spa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30373096466064,
+          35.03422419735524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Center Med Spa",
+        "description": "2 Pi Racks",
+        "type": "2 Pi Racks",
+        "capacity": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30371755361557,
+          35.034663439704865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heart Gallery",
+        "description": "1  Pi Rack",
+        "type": "1  Pi Rack",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30553877353668,
+          35.035381595860926
+        ]
+      }
     }
   ]
 }
