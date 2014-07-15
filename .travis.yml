@@ -16,3 +16,7 @@ after_success:
 env:
   global:
     - DATASET_ID="sp42-d42z"
+    - secure: UrU55Qmy+IsALR1BlpSUc+9Ql1owsCWJ9xsE2B/M44lRHW2crurIecajaKh81DPr9oNOlLRNYs7qmlD3yXDTm/mNORUsvmKKtxrDvz7Ymc1YgXLgGRK48ASRPTSEClx/5zh7m7MubuDe9ubgx0zGY145TkxziL8r7s6zmsohgO8=
+    - secure: gfvnnQD1WokYcmZg+e05PWJkQE0BDlIDHfxICInDHbs9/NLeEYNafcTelOZJGKAj3iPEXeI3CYvCjsV9Sdo/fdEVuLRNz0wkyzLe/DmDVro7ZkRjVoxhOVYtgZBVdGTfiO4L1Cv16lyiYYzw0FW9qk/a3Q1x855UUqTT5yluHJI=
+    - secure: IJ0Bp6omIvwcmM469gCa51QdZad2+GXS27ZGvmB+PIyqG+zj/cBhrwxvQsDq230rQwbjC82e2JMDWsBwDhU0gBORf87vNgvPToRFvdpntguWi/Jk1p0eecuYg+2QwxozC0k+SENN9H5KjMCAtZKMnwbekg57le3S4rNIL8vhNNY=
+    - secure: gG6kSyYP2DcgTUns2aHw+XMvR7UJS5mk7ql6lk61ktKxj9UwnI9JDKwdoTpwcvqRsZO92bqUVjU+LKgx2M00/CHDaVtKWXT2muhEqWZz2F0t5RAyLRH7+0IZqFdad6y8YyWf81ozd1v2CmPgC3mwIcEURFuCBMphZlKlTCyk5u4=

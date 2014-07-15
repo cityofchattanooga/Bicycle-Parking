@@ -1,5 +1,5 @@
-Bicycle-Parking
-===============
+# Bicycle-Parking [![Build Status](https://travis-ci.org/cityofchattanooga/Bicycle-Parking.png)](https://travis-ci.org/cityofchattanooga/Bicycle-Parking)
+
 Bicycle Parking Locations in the City of Chattanooga. 
 
 ##About
