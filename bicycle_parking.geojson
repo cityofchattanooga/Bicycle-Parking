@@ -3075,6 +3075,51 @@
           35.06367455941586
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claris Networks",
+        "type": "Circle",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3075236082077,
+          35.041313280421676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Star",
+        "type": "Post and Ring",
+        "capacity": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30988931655884,
+          35.03966843955072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Post and Ring",
+        "capacity": 2,
+        "name": "Southtree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30918926000595,
+          35.039378557620665
+        ]
+      }
     }
   ]
 }
