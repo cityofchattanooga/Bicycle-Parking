@@ -11,11 +11,11 @@ fs.readFile('bicycle_parking.geojson', 'utf8', function (err,data) {
     var p = i.properties
       , coords = i.geometry.coordinates;
 
-    var rowstr = [p.name, p.description, p.type, p.capacity, '(' + coords[1] + ', ' + coords[0] + ')'];
+    var rowstr = [p.name, p.type, p.capacity, '(' + coords[1] + ', ' + coords[0] + ')'];
 
       return rowstr;
   })
-    , header = ['name','description','type','capacity','location_1'];
+    , header = ['name','type','capacity','location_1'];
 
   stringify([header].concat(dta), function(err, d){
     fs.writeFile('bicycle_parking.csv', d, function (err) {
