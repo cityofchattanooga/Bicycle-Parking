@@ -3120,21 +3120,6 @@
           35.039378557620665
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "test",
-        "type": "test",
-        "capacity": "test"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.21798610687256,
-          35.025392729062474
-        ]
-      }
     }
   ]
 }
