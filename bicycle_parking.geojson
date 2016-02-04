@@ -109,7 +109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Greenlife",
+        "name": "Whole Foods",
         "type": "Wave",
         "capacity": 15
       },
@@ -845,8 +845,8 @@
       "type": "Feature",
       "properties": {
         "name": "YMCA",
-        "type": "",
-        "capacity": null
+        "type": "Post and Ring",
+        "capacity": 2
       },
       "geometry": {
         "type": "Point",
@@ -2164,7 +2164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wellness Center",
+        "name": "Chattanooga City General Services",
         "type": "",
         "capacity": null
       },
